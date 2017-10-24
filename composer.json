@@ -5,15 +5,13 @@
         {
             "name": "Kalahe Pathirana",
             "email": "nadeera.vista@gmail.com"
-        },
-        {
-            "name": "Kalahe Pathirana",
-            "email": "nad.live@gmail.com"
         }
     ],
     "minimum-stability": "dev",
-    "prefer-stable": true,
     "require": {
          "php": ">=5.1.0"
+    },
+    "autoload": {
+        "psr-0": {"Kalahe\\HoiioSms": "src/"}
     }
 }
