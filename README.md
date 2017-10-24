@@ -34,6 +34,9 @@ $key = $notify->getDigits();
 
 $h->ivrPlay($session, '', "You just pressed $key.");
 ```
+## License
+
+This project is licensed under the MIT License - see the [MIT License.](http://en.wikipedia.org/wiki/MIT_License) file for details
 
 ## Built With
 
